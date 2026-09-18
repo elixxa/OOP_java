@@ -8,7 +8,7 @@ public class task4 {
         System.out.print("Введите количество элементов массива: ");
         int n = scanner.nextInt();
 
-        if (n < 0) {
+        if (n <= 0) {
             System.out.println("Количество элементов должно быть больше нуля.");
             return;
         }
