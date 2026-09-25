@@ -36,7 +36,7 @@ public class TestMovable {
 
         System.out.println();
         System.out.println(rectangle);
-
+        System.out.println("Двигаем вправо");
         rectangle.moveRight();
 
         System.out.println(rectangle);

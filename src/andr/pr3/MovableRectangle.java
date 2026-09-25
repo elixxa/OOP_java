@@ -49,9 +49,9 @@ public class MovableRectangle implements Movable {
 
     @Override
     public String toString() {
-        return "MovableRectangle: topLeft = "
+        return "MovableRectangle: topLeft: "
                 + topLeft
-                + ", bottomRight = "
+                + ", bottomRight: "
                 + bottomRight;
     }
 }
