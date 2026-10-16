@@ -1,4 +1,4 @@
-package andr.praktika2.pr6;
+package andr.praktika21.pr6;
 
 public class TestNameable {
 
